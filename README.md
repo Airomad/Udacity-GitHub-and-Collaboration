@@ -2,6 +2,9 @@
 
 [Back to main repository](https://github.com/Airomad/Udacity)
 
+## Links:
+[Backup when do rebase](https://www.youtube.com/watch?time_continue=117&v=H5JqcdIB5y0)
+
 ## Git Notes:
 - **shortlog** - A quick way that we can see how many commits each contributor has added to the repository.
   * Flags:
